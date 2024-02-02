@@ -18,6 +18,8 @@ fun main() {
     EventQueue.invokeLater {
 //        val frame6 = JFrame6()
 //        val frame7 = JFrame7()
-        val frame8 = JFrame8()
+//        val frame8 = JFrame8()
+
+        val frame9 = JFrame9()
     }
 }
